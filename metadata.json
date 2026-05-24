@@ -1,6 +1,0 @@
-{
-  "name": "niuniu AI Designer",
-  "description": "AI Full-Chain Designer Landscape Portfolio",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
